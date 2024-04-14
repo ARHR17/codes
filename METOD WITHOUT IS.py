@@ -1,4 +1,4 @@
-#METOD WITHOUT IS
+#METHOD WITHOUT IS
 # ALIREZA HEYRAN 
 
 #capitalize #اولین کرکتر رشته را بزرگ میکند
